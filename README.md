@@ -1,5 +1,7 @@
 # python-search-png-file-and-make-folder-and-move
-Python Script I Give List Like Cat Png, Dog Png And Search All Images From Folder Cut Png File Make Folder And Paste On Folder All Png Images
+Python Script I Give List Like Cat Png, Dog Png And Search All Images From Folder Cut Png File Make Folder And Paste On Folder All Png Images<br>
+
+
 In this Python script, if you have a lot of images, you can search all the png files and move them to a new folder.
 
 
@@ -10,6 +12,6 @@ In this Python script, if you have a lot of images, you can search all the png f
 
 
 PNG Images Credit
-https://yourpng.com/
-https://fundopng.com/
-https://fondopng.es/
+https://yourpng.com/<br>
+https://fundopng.com/<br>
+https://fondopng.es/<br>
