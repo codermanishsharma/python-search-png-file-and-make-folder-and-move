@@ -18,24 +18,20 @@ In this Python script, if you have a lot of images, you can search all the png f
 
 <h1>Before
 </h1>
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://ibb.co/rQWQ7P3"  />
-</div>
+
+![Screenshot_1](https://github.com/codermanishsharma/python-search-png-file-and-make-folder-and-move/assets/138272312/9316d8f5-f311-4693-a80b-304c6a8c016a)
 
 
 <h1>AFter 
-  <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://ibb.co/rQWQ7P3"  />
-</div>
-
-
 </h1>
 
+![Screenshot_3](https://github.com/codermanishsharma/python-search-png-file-and-make-folder-and-move/assets/138272312/d3aa3f41-b67a-443f-97c5-8670cdd94423)
 
 
 
 
-PNG Images Credit
+
+<h3>PNG Images Credit</h3>h
 https://yourpng.com/<br>
 https://fundopng.com/<br>
 https://fondopng.es/<br>
